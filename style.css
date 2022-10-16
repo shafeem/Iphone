@@ -1,0 +1,65 @@
+.row {
+    margin: 0;
+}
+
+.hero {
+    overflow: hidden;
+}
+.hei{
+    height: 3.4rem;
+    align-content: center;
+    background-color: rgba(0, 0, 0, 0.747);
+}
+.header{
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    
+}
+.acol{
+    font-size: small;
+    color: grey;
+}
+.psec{
+    
+    text-align: center;
+
+}
+.pback{
+    background: rgb(207,135,192);
+    background: linear-gradient(90deg, rgba(207,135,192,1) 0%, rgba(208,38,213,1) 35%, rgba(41,144,171,1) 70%, rgba(84,80,88,1) 93%);;
+    background-repeat: no-repeat;
+    font-size: small;
+    
+}
+.sbg{
+    text-align: center;
+    padding-top: 4%;
+}
+.sbg-2{
+   text-decoration: none;
+   font-size: larger;
+    position: relative;
+    top: 5%;
+}
+.sbg-3{
+    text-align: center;
+    
+}
+.sec-2{
+    background-color: black;
+}
+.img-4{
+    background-image:rgb(95,37,134);
+    background: linear-gradient(0deg, rgba(95,37,134,1) 0%, rgba(89,41,76,1) 43%, rgba(24,27,60,1) 68%, rgba(1,5,40,1) 100%);;
+
+}
+
+.cj{
+    font-size: small;
+    color: grey;
+    margin-top: 1rem;
+}
+li{
+    list-style: none;
+}
